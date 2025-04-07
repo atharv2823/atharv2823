@@ -1,0 +1,14 @@
+- 👋 Hi, I’m @atharv2823
+- 🔭 I’m currently working on: A full-stack medical web app using Next.js & Supabase  
+- 🌱 I’m currently learning: AI integrations, advanced Next.js patterns  
+- 👯 I’m looking to collaborate on: Open-source full-stack or AI-driven apps  
+- 🤝 I’m looking for help with: Testing and UI/UX design  
+- 💬 Ask me about: Full-stack development, API integration, Tailwind, Supabase
+- 📫 How to reach me : atharvaneware@gmail.com
+- 😄 Pronouns: He  
+- ⚡ Fun fact: I can build full-stack apps faster than I make instant noodles 🍜
+
+<!---
+atharv2823/atharv2823 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
