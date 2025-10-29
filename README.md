@@ -6,7 +6,6 @@
 - 💬 Ask me about: Full-stack development, API integration, Tailwind, Supabase
 - 📫 How to reach me : atharvaneware@gmail.com
 - 😄 Pronouns: He  
-- ⚡ Fun fact: I can build full-stack apps faster than I make instant noodles 🍜
 
 <!---
 atharv2823/atharv2823 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
