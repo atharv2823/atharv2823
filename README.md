@@ -1,5 +1,3 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=0f7321&text=Atharva%20Neware&textBg=false&fontAlign=50&animation=fadeIn&fontColor=ffffff
-
 - 👋 Hi, I’m @atharv2823
 - 🔭 I’m currently working on: A full-stack medical web app using Next.js & Supabase  
 - 🌱 I’m currently learning: AI integrations, advanced Next.js patterns  
